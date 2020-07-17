@@ -14,6 +14,7 @@ Si está inresado en ser parte de este laboratorio, escriba al profesor Adolfo J
 De las 370.00 especies de Angiospermas  descritas, al menos la mitad se conocen pobremente, y en promedio toma 40 años entre la primera colecta de una especie y su descripción, por lo que muchas especies nuevas reposan en los herbarios [(Goodwin et al. 2020)](https://www.tandfonline.com/doi/abs/10.1080/14772000.2020.1751339). En un planeta que vive un acelerado ritmo de transformación, donde la mayoría de las especies han experimentado reducciones drásticas de su hábitat, y muchas están en peligro de extinción, la tarea que tiene en frente la taxonomía es gigante.
 A pesar de lo anterior, la taxonomía vive una crisis, debido a su bajo prestigio como campo activo de investigación, lo que ha llevado a la baja financiación de proyectos, y déficit de taxónomos jóvenes. 
 >Un nombre científico es una hipótesis sobre la variación en la naturaleza
+
 En este laboratorio promovemos el abordaje de trabajos taxonómicos, tanto aquellos de corte clásico, como aquellos que introducen novedades metodológicas y teóricas para resolver problemas.
 
 ## Biogeografía
@@ -23,10 +24,12 @@ La biogeografía estudia la distribución de la vida en el espacio y a lo largo 
 # CURSOS
 
 
-# [Botánica sistemática para Agronomía] (https://adolfojara.github.io/Bot-Tax/)
+### Botánica sistemática para Agronomía 
+
+En este curso se estudian los caracteres diagnósticos de las familias más importantes en terminos agrícolas, podrán encontrar detalles en la [página del cuso](https://adolfojara.github.io/Bot-Tax/)
 
 
-# Historia Natural de las Angiospermas
+### Historia Natural de las Angiospermas
 
 ---
 # PROYECTOS 
