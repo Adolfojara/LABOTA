@@ -5,7 +5,7 @@ En este laboratorio creemos en la importancia de la ciencia básica y en la nece
 
 Tratamos de resolver preguntas de investigación en diferentes ámbitos de la biología, principalmente aquellas basadas o relacionadas con colecciones científicas, y con las plantas de Colombia como principal objeto de estudio.
 
-Si está inresado en ser parte de este laboratorio, escriba al profesor Adolfo Jara al correo oajaram@unal.edu.co
+**Si está inresado en ser parte de este laboratorio, escriba al profesor Adolfo Jara al correo oajaram@unal.edu.co**
 
 ---
 
@@ -24,17 +24,17 @@ La biogeografía estudia la distribución de la vida en el espacio y a lo largo 
 # CURSOS
 
 
-### Botánica sistemática para Agronomía 
+* Botánica sistemática para Agronomía 
 
 En este curso se estudian los caracteres diagnósticos de las familias más importantes en terminos agrícolas, podrán encontrar detalles en la [página del cuso](https://adolfojara.github.io/Bot-Tax/)
 
 
-### Historia Natural de las Angiospermas
+* Historia Natural de las Angiospermas
 
 ---
 # PROYECTOS 
 
-### Origen y divesificación de la flora en el Magdalena Medio
+* Origen y divesificación de la flora en el Magdalena Medio
 
 
 
